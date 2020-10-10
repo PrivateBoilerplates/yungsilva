@@ -3,28 +3,30 @@
     <Logo />
 
     <p>
-      Olá, eu sou um programador independente e o criador da plataforma de
-      cursos online <a href="https://cataline.io" target="_blank">Cataline</a>.
-      Também costumo criar projetos open source e bibliotecas para ajudar a
-      comunidade Javascript, você pode encontrar isso publicamente disponível em
-      meu <a href="https://github.com/yungsilva" target="_blank">GitHub</a>.
+      Olá! Eu sou Yung Silva, programador independente e criador da plataforma
+      de cursos online
+      <a href="https://cataline.io" target="_blank">Cataline</a>. Também costumo
+      criar projetos open source e bibliotecas para ajudar a comunidade
+      Javascript/Typescript. Você consegue encontrar isso publicamente
+      disponível em meu
+      <a href="https://github.com/yungsilva" target="_blank">GitHub</a>.
     </p>
 
     <p>
       Também estou no
-      <a href="https://facebook.com/yungsilva974/" target="_blank">Facebook</a>,
-      as vezes posto algumas coisas sobre meu trabalho.
+      <a href="https://facebook.com/yungsilva974/" target="_blank">Facebook</a>
+      e às vezes posto algumas coisas sobre meu trabalho
     </p>
 
     <p>
-      Fora da programação eu gosto de praticar atividade física, comer sushi e
-      passar tempo com meus cachorros.
+      Além da programação, eu gosto de praticar atividades físicas, comer sushi
+      e passar um tempo com meus cachorros.
     </p>
 
     <p>
-      Caso queira falar comigo, pode falar em qualquer lugar que me encontrar na
-      internet ou escrever um e-mail para
-      <a href="mailto:contato@yungsilva.com">contato@yungsilva.com.</a>
+      Caso queira falar comigo, pode me encontrar pelos meus canais na internet
+      ou escrever um e-mail para
+      <a href="mailto:contato@yungsilva.com">contato@yungsilva.com.</a>.
     </p>
   </div>
 </template>
