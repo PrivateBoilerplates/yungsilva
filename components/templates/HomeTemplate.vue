@@ -25,9 +25,10 @@
 
     <p>
       Caso queira falar comigo, pode me encontrar pelos meus canais na internet
-      ou escrever um e-mail para
-      <a href="mailto:contato@yungsilva.com">contato@yungsilva.com</a>.
+      ou enviar uma mensagem para meu e-mail <a href="mailto:yung@cataline.io">yung@cataline.io</a>.
     </p>
+
+
   </div>
 </template>
 
