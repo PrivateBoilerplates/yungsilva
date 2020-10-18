@@ -15,7 +15,7 @@
     <p>
       Também estou no
       <a href="https://facebook.com/yungsilva974/" target="_blank">Facebook</a>
-      e às vezes posto algumas coisas sobre meu trabalho
+      e às vezes posto algumas coisas sobre meu trabalho.
     </p>
 
     <p>
@@ -26,7 +26,7 @@
     <p>
       Caso queira falar comigo, pode me encontrar pelos meus canais na internet
       ou escrever um e-mail para
-      <a href="mailto:contato@yungsilva.com">contato@yungsilva.com.</a>.
+      <a href="mailto:contato@yungsilva.com">contato@yungsilva.com</a>.
     </p>
   </div>
 </template>
